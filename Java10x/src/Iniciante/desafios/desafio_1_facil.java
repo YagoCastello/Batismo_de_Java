@@ -1,6 +1,6 @@
-package desafios;
+package Iniciante.desafios;
 
-import Condicoes.If_e_Else;
+
 
 public class desafio_1_facil {
     public static void main(String[] args) {

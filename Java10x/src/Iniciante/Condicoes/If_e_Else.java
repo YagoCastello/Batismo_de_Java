@@ -1,4 +1,4 @@
-package Condicoes;
+package Iniciante.Condicoes;
 
 public class If_e_Else {
 

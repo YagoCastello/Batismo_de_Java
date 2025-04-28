@@ -1,4 +1,4 @@
-package Condicoes;
+package Iniciante.Condicoes;
 
 public class forinnn {
     public static void main(String[] args) {

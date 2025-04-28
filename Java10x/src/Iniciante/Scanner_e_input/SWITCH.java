@@ -1,4 +1,4 @@
-package Scanner_e_input;
+package Iniciante.Scanner_e_input;
 import java.util.Scanner;
 
 public class SWITCH {

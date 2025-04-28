@@ -1,4 +1,4 @@
-package Ninjas_inicio;
+package intermediario.Ninjas_inicio;
 
 public class Alunos {
 
