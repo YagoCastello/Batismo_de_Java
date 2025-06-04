@@ -15,7 +15,12 @@ public class NinjaBasico implements Ninja{
         System.out.println(nome+" está executando o(a) "+habilidade);
     }
 
-    NinjaBasico Naruto = new NinjaBasico();
+    public NinjaBasico() {
+    }
 
-
+    public NinjaBasico(String nome, int idade, String habilidade) {
+        this.nome = nome;
+        this.idade = idade;
+        this.habilidade = habilidade;
+    }
 }
