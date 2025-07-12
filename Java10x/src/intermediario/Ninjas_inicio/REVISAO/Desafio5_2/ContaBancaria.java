@@ -1,6 +1,6 @@
-package intermediario.Ninjas_inicio.REVISAO.Desafio5;
+package intermediario.Ninjas_inicio.REVISAO.Desafio5_2;
 
-public abstract class ContaBancaria implements Conta{
+public abstract class ContaBancaria implements Conta {
     protected double saldo;
 
     public ContaBancaria(double saldoInicial){
@@ -10,7 +10,9 @@ public abstract class ContaBancaria implements Conta{
     @Override
     public double consultarSaldo(){
         return saldo;
+
     }
 
+    @Override
     public abstract void depositar(double valor);
 }
